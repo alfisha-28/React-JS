@@ -1,0 +1,10 @@
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    justify-content: left;
+    align-items: start;
+}
